@@ -1,0 +1,65 @@
+.fondo{
+	background-image: url(images/bg.jpeg);
+	width: 100%;
+	height: 350px;
+	margin:0px;
+	padding: 0px;
+	background-size: cover;
+}
+.logo{
+	width: 190px;
+}
+.fondo h2{
+	text-align: center;
+	color:white;
+	margin: 0px;
+	padding: 50px 0px 0px 0px;
+}
+.botom-1{
+	margin-left: 135px;
+}
+.fondo button{
+	margin-top: 20px;
+	}
+.titulo{
+ padding:80px 400px 0px 400px;
+}
+.fondo p{
+	color:white;
+	text-align: center;
+	padding:60px 0px 0px 0px; 
+}
+.n1{
+	background-color: white;
+	margin-bottom: 0px;
+	padding-bottom: 0px; 
+}
+.jumbotron p{
+	font-size: 15px;
+	text-align: center;
+}
+.n1 img{
+	width: 350px;
+	margin: auto;
+	display: block;
+}
+.botom-2{
+	margin:auto;
+	display: block;
+}
+.n2{
+	width: 100%;
+	height: 250px;
+	border-color:#e8e8e8;
+	border-style: solid;
+}
+.desafio{
+	position: relative;
+	background-color: black;
+	width: 100%;
+	height: 50px;
+}
+.desafio p{
+	color: #D0C3AD;
+	padding-top: 7px;
+}
